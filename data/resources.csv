@@ -1,0 +1,5 @@
+resource_id,resource_name,skill,shift_start,shift_end
+R001,Alice,Backend,9,17
+R002,Bob,Frontend,9,18
+R003,Charlie,QA,10,19
+R004,David,DevOps,8,16
